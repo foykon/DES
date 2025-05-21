@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Encryption Standard", "DES\Data Encryption Standard.csproj", "{528CF74F-583E-4754-B0BC-9D9F06A9F764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528CF74F-583E-4754-B0BC-9D9F06A9F764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528CF74F-583E-4754-B0BC-9D9F06A9F764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528CF74F-583E-4754-B0BC-9D9F06A9F764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528CF74F-583E-4754-B0BC-9D9F06A9F764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93055A1E-B6AA-44C0-B9DF-F132901FB54E}
+	EndGlobalSection
+EndGlobal
